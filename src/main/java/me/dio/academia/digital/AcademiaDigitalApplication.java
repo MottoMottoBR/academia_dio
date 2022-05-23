@@ -8,6 +8,7 @@ public class AcademiaDigitalApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AcademiaDigitalApplication.class, args);
+
 	}
 
 }
